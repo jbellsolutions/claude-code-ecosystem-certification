@@ -153,6 +153,12 @@ button {
   box-shadow: var(--shadow);
 }
 
+.portal {
+  display: grid;
+  gap: 24px;
+  margin-top: 24px;
+}
+
 .auth-shell {
   display: grid;
   grid-template-columns: 1.15fr 0.85fr;

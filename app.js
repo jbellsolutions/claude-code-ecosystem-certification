@@ -113,6 +113,12 @@ function setupReveal() {
   document.querySelectorAll(".reveal").forEach((node) => observer.observe(node));
 }
 
+function setRevealState(rootSelector, isVisible) {
+  document.querySelectorAll(`${rootSelector} .reveal`).forEach((node) => {
+    node.classList.toggle("is-visible", isVisible);
+  });
+}
+
 function updateAuthView() {
   const user = localStorage.getItem(sessionKey);
   const authView = document.getElementById("auth-view");
@@ -125,10 +131,12 @@ function updateAuthView() {
     portalView.classList.remove("hidden");
     logoutButton.classList.remove("hidden");
     portalTitle.textContent = `Welcome, ${user}`;
+    setRevealState("#portal-view", true);
   } else {
     authView.classList.remove("hidden");
     portalView.classList.add("hidden");
     logoutButton.classList.add("hidden");
+    setRevealState("#auth-view", true);
   }
 
   setupReveal();
@@ -179,7 +187,7 @@ async function init() {
     localStorage.setItem(sessionKey, normalized || "Member");
     feedback.textContent = "Login successful. Opening the certification portal.";
     updateAuthView();
-    window.location.hash = "curriculum";
+    document.getElementById("portal-view").scrollIntoView({ behavior: "smooth", block: "start" });
   });
 
   document.getElementById("logout-button").addEventListener("click", () => {
