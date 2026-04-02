@@ -1,4 +1,4 @@
-# Plot Code Ecosystem Level One Certification
+# Claude Code Ecosystem Level One Certification
 
 Login-gated certification portal built from the supplied Descript video exports, with the actual curriculum videos, branded graphics, transcript-derived lesson copy, and optional media regeneration scripts.
 

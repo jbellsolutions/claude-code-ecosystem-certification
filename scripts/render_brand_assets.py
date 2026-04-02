@@ -185,7 +185,7 @@ def render_social_card(data: dict) -> None:
     headline_box = draw.multiline_textbbox((150, headline_y), headline_text, font=font(DISPLAY_BOLD, 46), spacing=10)
     body_y = headline_box[3] + 28
     draw.multiline_text((150, body_y), wrap(data["subheadline"], 36), font=font(SANS_FONT, 28), fill="#4e5c5e", spacing=12)
-    draw_badge(img, (1298, 452), 126, "Plot Code", "Level One")
+    draw_badge(img, (1298, 452), 126, "Claude Code", "Level One")
     img.save(BRAND_DIR / "social-card.png", quality=95)
 
 
@@ -215,7 +215,7 @@ def render_slates(data: dict) -> None:
         title_box = draw.multiline_textbbox((132, 182), title_text, font=font(DISPLAY_FONT, 52), spacing=6)
         body_y = title_box[3] + 24
         draw.multiline_text((132, body_y), wrap(body, 34), font=font(SANS_FONT, 26), fill="#4e5c5e", spacing=10)
-        draw_badge(img, (1038, 518), 88, "Plot", "Code")
+        draw_badge(img, (1038, 518), 88, "Claude", "Code")
         img.save(filename, quality=95)
 
     for index, module in enumerate(data["modules"], start=1):
