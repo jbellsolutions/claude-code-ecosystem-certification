@@ -1,0 +1,133 @@
+1
+00:00:00,000 --> 00:00:00,960
+It said, great news.
+
+2
+00:00:00,989 --> 00:00:02,639
+I, and I already have these installed.
+
+3
+00:00:02,639 --> 00:00:04,469
+So for me it's a little
+bit, uh, different, right?
+
+4
+00:00:04,469 --> 00:00:06,420
+But for you it would say, all right, cool.
+
+5
+00:00:06,420 --> 00:00:08,279
+Here, here's how to connect,
+click up, here's how to connect,
+
+6
+00:00:08,699 --> 00:00:09,899
+go to calendar and Gmail, right?
+
+7
+00:00:10,529 --> 00:00:11,369
+Um, go high level.
+
+8
+00:00:11,369 --> 00:00:14,579
+There's no prebuilt connector,
+but, and look at this guys.
+
+9
+00:00:14,609 --> 00:00:15,989
+It actually went and found it, right?
+
+10
+00:00:16,019 --> 00:00:17,190
+You can gimme your access key.
+
+11
+00:00:17,190 --> 00:00:20,434
+Um, one thing to note here is that, um.
+
+12
+00:00:21,434 --> 00:00:24,824
+There's three things, three things
+that you wanna always ask about, right?
+
+13
+00:00:24,824 --> 00:00:28,694
+Because it, it actually, it can do it
+through API key, but I personally know
+
+14
+00:00:28,694 --> 00:00:30,944
+there's also what's called an MCP.
+
+15
+00:00:31,154 --> 00:00:31,574
+Right?
+
+16
+00:00:31,964 --> 00:00:34,394
+And so I'll show you
+this by typing it out.
+
+17
+00:00:34,394 --> 00:00:36,914
+And also I'm teaching whoever
+who is watching this video.
+
+18
+00:00:37,334 --> 00:00:44,144
+There's cps, there's skills, and um,
+there's a, something called CLI, right?
+
+19
+00:00:44,144 --> 00:00:46,994
+You don't have to know what they are
+to know that you want those, right?
+
+20
+00:00:47,084 --> 00:00:48,029
+There's also something called, um.
+
+21
+00:00:48,919 --> 00:00:51,379
+Uh, plugins, but those are gonna
+be transitioned out, so I'm not
+
+22
+00:00:51,379 --> 00:00:52,519
+gonna teach that too much here.
+
+23
+00:00:52,519 --> 00:00:54,919
+'cause by the time you watch this
+video, it may not even be relevant.
+
+24
+00:00:54,919 --> 00:00:55,189
+Right.
+
+25
+00:00:55,819 --> 00:00:56,149
+Um,
+
+26
+00:00:58,159 --> 00:00:59,239
+so thank you for that.
+
+27
+00:00:59,989 --> 00:01:03,049
+Uh, what about, uh, I heard about,
+there's something called like A MCP.
+
+28
+00:01:03,409 --> 00:01:04,459
+Uh, what is that?
+
+29
+00:01:04,459 --> 00:01:07,514
+And is there one of those available
+for like, go high level or Clickup?
+
+30
+00:01:07,814 --> 00:01:09,979
+And then I also heard about skills.
+

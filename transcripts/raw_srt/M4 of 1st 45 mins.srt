@@ -1,0 +1,420 @@
+1
+00:00:00,000 --> 00:00:00,390
+A you ready?
+
+2
+00:00:03,640 --> 00:00:03,880
+Good.
+
+3
+00:00:03,940 --> 00:00:04,180
+All right.
+
+4
+00:00:04,180 --> 00:00:04,480
+Cool.
+
+5
+00:00:04,960 --> 00:00:05,290
+Go ahead.
+
+6
+00:00:05,370 --> 00:00:09,659
+What we're gonna do is we're gonna build
+out I'm gonna show you like how I do these
+
+7
+00:00:09,659 --> 00:00:13,859
+different, like these different projects,
+like how I build out my system, right?
+
+8
+00:00:13,919 --> 00:00:16,919
+Because I'm always, you wanna look
+at it like from a mindset perspective
+
+9
+00:00:16,949 --> 00:00:20,459
+of, Hey, I'm no longer doing stuff.
+
+10
+00:00:20,719 --> 00:00:24,319
+I'm now the thinker and
+orchestrator, the expert.
+
+11
+00:00:24,449 --> 00:00:28,079
+And I'm telling my teams of
+agents what to do, right?
+
+12
+00:00:28,379 --> 00:00:31,739
+So I'm gonna have at least three different
+tabs open, and depending on what my
+
+13
+00:00:31,739 --> 00:00:36,740
+project is or what I'm doing for my
+role, then I might have three or four
+
+14
+00:00:36,740 --> 00:00:38,420
+different terminal sessions open too.
+
+15
+00:00:38,690 --> 00:00:41,450
+And I'm really just bouncing back
+and forth answering questions.
+
+16
+00:00:41,450 --> 00:00:44,000
+And Claude is the one
+doing the work from now on.
+
+17
+00:00:44,089 --> 00:00:44,480
+Okay.
+
+18
+00:00:45,099 --> 00:00:47,139
+So to do that, let's take a step back.
+
+19
+00:00:47,379 --> 00:00:47,649
+Azure.
+
+20
+00:00:47,649 --> 00:00:48,579
+Lemme get the screen share please.
+
+21
+00:00:53,524 --> 00:00:57,394
+What I'll do is, first, let's go check
+up on what Claude said, because we're
+
+22
+00:00:57,394 --> 00:00:59,194
+gonna follow the instructions today.
+
+23
+00:01:00,124 --> 00:01:00,469
+So here we are.
+
+24
+00:01:01,189 --> 00:01:02,059
+Install and setup.
+
+25
+00:01:02,449 --> 00:01:04,819
+Claude has already, is
+already ahead of us, right?
+
+26
+00:01:04,819 --> 00:01:07,669
+We already did this, install
+this up on desktop and notice I
+
+27
+00:01:07,669 --> 00:01:08,749
+just gave it a permission, right?
+
+28
+00:01:08,749 --> 00:01:11,424
+I gave it a prompt, and then
+I had some thoughts on what
+
+29
+00:01:11,424 --> 00:01:12,684
+I wanted to do today, right?
+
+30
+00:01:12,984 --> 00:01:15,174
+Claude built this out
+for us already, right?
+
+31
+00:01:15,174 --> 00:01:16,824
+So now we have a checklist
+of what we're doing.
+
+32
+00:01:16,824 --> 00:01:20,274
+We just did download and install,
+and this is not scripted guys, right?
+
+33
+00:01:20,274 --> 00:01:22,524
+This is how good these models are.
+
+34
+00:01:22,524 --> 00:01:23,784
+This is how good these tools are.
+
+35
+00:01:24,374 --> 00:01:26,324
+So use your tools, right?
+
+36
+00:01:26,324 --> 00:01:31,874
+So we installed cloud and terminal,
+we walk through settings, and this
+
+37
+00:01:31,874 --> 00:01:33,044
+is something I'm gonna do later on.
+
+38
+00:01:33,554 --> 00:01:34,604
+So our prompting and cloud desktop.
+
+39
+00:01:34,604 --> 00:01:35,654
+So this is where we're at now.
+
+40
+00:01:36,404 --> 00:01:38,834
+And then, let's see here,
+three live demos, right?
+
+41
+00:01:38,834 --> 00:01:44,404
+So project one cloud intake
+and outreach document, right?
+
+42
+00:01:44,404 --> 00:01:45,514
+New prospect, Google Review.
+
+43
+00:01:47,474 --> 00:01:47,924
+Okay.
+
+44
+00:01:50,349 --> 00:01:53,379
+Brief, and this is actually stuff
+that's CLA has very good memory.
+
+45
+00:01:53,379 --> 00:01:56,499
+So this is all stuff that's
+personal to me from past projects.
+
+46
+00:01:56,919 --> 00:01:57,489
+So
+
+47
+00:01:59,619 --> 00:02:02,289
+I'm actually gonna correct it
+here and just say, Hey, these are
+
+48
+00:02:02,289 --> 00:02:03,489
+great, these are personal to me.
+
+49
+00:02:03,489 --> 00:02:07,029
+I need general projects for a training
+video for three different roles in
+
+50
+00:02:07,029 --> 00:02:12,649
+a business, let's say recruiting
+operations and for software development.
+
+51
+00:02:13,639 --> 00:02:16,539
+So I'm correcting it here 'cause I
+actually wasn't specific enough in my
+
+52
+00:02:16,539 --> 00:02:18,589
+prompt what I was looking forward to do.
+
+53
+00:02:18,639 --> 00:02:19,930
+So it's gonna correct that part.
+
+54
+00:02:20,200 --> 00:02:23,529
+In the meantime, we've got our
+checklist here and it's gonna redo
+
+55
+00:02:23,529 --> 00:02:25,339
+this and re-put that here in a second.
+
+56
+00:02:25,950 --> 00:02:30,010
+In the meantime let me go in and let
+me just ad-lib this a little bit.
+
+57
+00:02:30,700 --> 00:02:33,400
+And we'll come back and we'll
+check this off as we go.
+
+58
+00:02:33,760 --> 00:02:37,535
+First thing is showing prompting,
+which I actually did with the outward
+
+59
+00:02:37,535 --> 00:02:39,485
+prompt open multiple Windows desktop.
+
+60
+00:02:39,485 --> 00:02:40,355
+Okay, cool.
+
+61
+00:02:40,805 --> 00:02:42,035
+And demonstrate the feedback loop.
+
+62
+00:02:42,035 --> 00:02:42,425
+Got it.
+
+63
+00:02:42,845 --> 00:02:43,055
+All right.
+
+64
+00:02:43,055 --> 00:02:49,115
+So we're gonna do that part and then we'll
+actually start job subscription provider.
+
+65
+00:02:49,115 --> 00:02:49,985
+All right, cool.
+
+66
+00:02:50,015 --> 00:02:55,265
+This is actually perfect candidate
+screening interview question generator.
+
+67
+00:02:55,805 --> 00:02:56,975
+It's actually given me.
+
+68
+00:03:04,789 --> 00:03:06,230
+Yeah, so we can do these.
+
+69
+00:03:06,379 --> 00:03:07,159
+This is actually good.
+
+70
+00:03:07,159 --> 00:03:08,240
+We can just sit with this, right?
+
+71
+00:03:08,640 --> 00:03:09,930
+But I'm looking forward to.
+
+72
+00:03:16,505 --> 00:03:19,200
+All right, so let's go with let's say.
+
+73
+00:03:25,375 --> 00:03:25,914
+I see what it did.
+
+74
+00:03:26,004 --> 00:03:26,394
+Okay, cool.
+
+75
+00:03:26,394 --> 00:03:29,514
+So this is a actual software development.
+
+76
+00:03:31,744 --> 00:03:32,734
+Lemme be more clear.
+
+77
+00:03:32,764 --> 00:03:34,744
+So a specific project for that.
+
+78
+00:03:34,744 --> 00:03:37,234
+I, if I was in a role of
+an operations manager.
+
+79
+00:03:37,924 --> 00:03:41,795
+If I was in the role of a recruiting
+or a recruiter for a company,
+
+80
+00:03:41,795 --> 00:03:44,924
+and then if I was in the role
+of a software developer, right?
+
+81
+00:03:45,224 --> 00:03:48,404
+Three little simple things like software
+developer might be a website or app
+
+82
+00:03:48,885 --> 00:03:53,475
+and a recruiter might be somebody
+who is, doing recruiting operations.
+
+83
+00:03:53,475 --> 00:03:55,755
+So the candidate screener is fine, so
+you don't have to worry about that.
+
+84
+00:03:56,115 --> 00:03:58,605
+Operations manager might be somebody
+who's doing Clickup, or some other
+
+85
+00:03:58,605 --> 00:04:00,345
+project management, just to be clear.
+
+86
+00:04:00,345 --> 00:04:01,575
+So just gimme those other two.
+
+87
+00:04:01,575 --> 00:04:04,305
+Recruiting is fine 'cause you gimme an
+example here for that and that's fine.
+
+88
+00:04:04,485 --> 00:04:07,635
+And then if you could always, if you
+could actually update the checklist
+
+89
+00:04:07,635 --> 00:04:10,735
+so that way that's up to date,
+that would be awesome too, as well.
+
+90
+00:04:13,480 --> 00:04:16,960
+So you guys can see it's obviously
+not perfect and you're going to get,
+
+91
+00:04:17,020 --> 00:04:18,700
+the clearer you are the better, right?
+
+92
+00:04:18,700 --> 00:04:19,960
+So I'm glad that actually
+happen on videos.
+
+93
+00:04:19,990 --> 00:04:20,740
+Who can see that?
+
+94
+00:04:21,040 --> 00:04:22,690
+That it doesn't always just
+come out perfect every time.
+

@@ -1,0 +1,614 @@
+1
+00:00:00,000 --> 00:00:01,259
+So a couple things to notice here.
+
+2
+00:00:01,559 --> 00:00:04,029
+Actually before we actually
+do that, one thing to do is
+
+3
+00:00:04,029 --> 00:00:05,289
+let's get your settings done.
+
+4
+00:00:05,389 --> 00:00:08,959
+And Audrey, if you can go to the left
+on the bottom, click on your name.
+
+5
+00:00:09,979 --> 00:00:10,879
+Or the, or that right there.
+
+6
+00:00:10,879 --> 00:00:11,239
+That's fine.
+
+7
+00:00:11,239 --> 00:00:11,929
+You did the right thing.
+
+8
+00:00:12,359 --> 00:00:12,959
+Same thing.
+
+9
+00:00:12,989 --> 00:00:13,799
+Settings.
+
+10
+00:00:14,969 --> 00:00:18,379
+Two things that I do, one
+thing you definitely want do
+
+11
+00:00:18,379 --> 00:00:21,709
+is under quad code in settings
+
+12
+00:00:24,649 --> 00:00:27,559
+on the left hand side where
+it says settings on that list.
+
+13
+00:00:27,559 --> 00:00:30,649
+There's not in the middle of the page
+there, Audrey, where it says settings.
+
+14
+00:00:31,149 --> 00:00:33,129
+Then you see quad code in that list.
+
+15
+00:00:33,849 --> 00:00:34,629
+It's about five up.
+
+16
+00:00:34,629 --> 00:00:35,019
+There you go.
+
+17
+00:00:35,949 --> 00:00:38,469
+You'll want to hit allow
+bypass permissions mode
+
+18
+00:00:38,469 --> 00:00:39,370
+right there in the middle.
+
+19
+00:00:39,370 --> 00:00:41,049
+You've already got yours turned on Audrey.
+
+20
+00:00:41,419 --> 00:00:45,024
+But for if you're first time downloading
+the app, it's your first time working it.
+
+21
+00:00:45,379 --> 00:00:46,939
+You'll want to enable that mode.
+
+22
+00:00:48,199 --> 00:00:48,889
+You don't have to.
+
+23
+00:00:48,889 --> 00:00:50,989
+If you don't do that, then
+what happens when you use it?
+
+24
+00:00:50,989 --> 00:00:52,939
+It's gonna ask you for
+permission to do everything.
+
+25
+00:00:53,389 --> 00:00:55,969
+So you're gonna be pressing that
+allow permissions button like a
+
+26
+00:00:55,969 --> 00:00:59,719
+hundred times sometimes, and it can
+get really unproductive or slow.
+
+27
+00:00:59,719 --> 00:01:01,039
+Slow with getting stuff done.
+
+28
+00:01:01,369 --> 00:01:05,599
+So we got that turned on, and then the
+other one, Audrey, is Claude in Chrome.
+
+29
+00:01:05,629 --> 00:01:06,649
+If you can click on that
+
+30
+00:01:09,079 --> 00:01:12,809
+and then you'll want to go ahead
+and make sure that is good to go.
+
+31
+00:01:12,929 --> 00:01:13,649
+Make sure that's turned on.
+
+32
+00:01:13,649 --> 00:01:14,129
+Go ahead.
+
+33
+00:01:14,174 --> 00:01:18,434
+You can click on it, hit allow
+extension, and then it's gonna go ahead
+
+34
+00:01:18,434 --> 00:01:22,605
+and allow, it's gonna, you're giving
+it permission to use your browser.
+
+35
+00:01:22,605 --> 00:01:25,365
+So if it ever needs to log into
+something or check something on the
+
+36
+00:01:25,365 --> 00:01:27,255
+internet, that's what that means.
+
+37
+00:01:27,705 --> 00:01:31,165
+One other setting depending on
+your situation, if you go to usage.
+
+38
+00:01:32,095 --> 00:01:32,905
+In the setting tab.
+
+39
+00:01:33,025 --> 00:01:33,445
+There you go.
+
+40
+00:01:34,955 --> 00:01:36,555
+Here I always turn on extra usage.
+
+41
+00:01:36,575 --> 00:01:38,285
+Audrey's turn on here, right?
+
+42
+00:01:38,285 --> 00:01:40,445
+So she's spent an extra $132.
+
+43
+00:01:40,815 --> 00:01:41,865
+They'll, does that intimidate you?
+
+44
+00:01:41,895 --> 00:01:44,145
+We do a lot of stuff
+with cloud code, right?
+
+45
+00:01:44,415 --> 00:01:47,735
+You may not use it that much, but there
+is a certain amount of usage that comes
+
+46
+00:01:47,735 --> 00:01:50,960
+with each plan, and sometimes you may
+want to go over to finish a project.
+
+47
+00:01:51,550 --> 00:01:52,630
+I personally turn the that on.
+
+48
+00:01:52,660 --> 00:01:53,530
+You don't have to.
+
+49
+00:01:53,850 --> 00:01:56,160
+You definitely want to turn on
+the cloud code, enable bypass
+
+50
+00:01:56,160 --> 00:01:58,330
+permissions and the cloud and chrome.
+
+51
+00:01:58,330 --> 00:01:59,380
+You wanna have those two turn on?
+
+52
+00:01:59,380 --> 00:01:59,800
+For sure.
+
+53
+00:02:00,310 --> 00:02:03,100
+Audra, let's go ahead and
+go back to the cloud code.
+
+54
+00:02:03,100 --> 00:02:05,695
+Just hit new session up top left and
+that'll bring you back to cloud code.
+
+55
+00:02:07,325 --> 00:02:08,075
+So now we're here.
+
+56
+00:02:08,075 --> 00:02:08,765
+What are we looking at?
+
+57
+00:02:09,245 --> 00:02:12,585
+First thing is you have this you
+have this box in front of you.
+
+58
+00:02:12,705 --> 00:02:15,075
+Then it says Auto accept
+edits and select folder.
+
+59
+00:02:15,615 --> 00:02:18,015
+And it has your model on the right
+hand side, which is on at 4.6.
+
+60
+00:02:18,015 --> 00:02:18,795
+And it says local.
+
+61
+00:02:19,305 --> 00:02:22,755
+Don't worry about the model in the local
+part on the right hand side, too much.
+
+62
+00:02:22,755 --> 00:02:23,325
+Just pay attention.
+
+63
+00:02:23,325 --> 00:02:24,435
+There's that microphone there.
+
+64
+00:02:24,465 --> 00:02:27,165
+So if you're not using whisper flow,
+you'll definitely want to use that
+
+65
+00:02:27,165 --> 00:02:29,595
+microphone button 'cause you're gonna
+wanna talk out your prompts and you'll
+
+66
+00:02:29,595 --> 00:02:31,005
+see that here shortly when we do that.
+
+67
+00:02:31,515 --> 00:02:32,085
+In the meantime.
+
+68
+00:02:32,925 --> 00:02:35,865
+The one thing, two things if keep
+in mind is you always want to select
+
+69
+00:02:35,865 --> 00:02:37,305
+a folder for your project, right?
+
+70
+00:02:37,305 --> 00:02:39,615
+You're gonna be building something
+that's, there's gonna be a
+
+71
+00:02:39,615 --> 00:02:40,845
+lot of files that are created.
+
+72
+00:02:41,205 --> 00:02:45,164
+If you're building a, something that's
+technical, like a website or an app
+
+73
+00:02:45,345 --> 00:02:49,115
+or you're launching like some sort of
+like agents or scripts or whatever.
+
+74
+00:02:49,414 --> 00:02:51,365
+There's files that are created
+that are associated with that.
+
+75
+00:02:52,140 --> 00:02:55,290
+If they're scattered all over your
+computer, then the app or whatever
+
+76
+00:02:55,290 --> 00:02:58,230
+it's you're doing, may or may not
+work to the level that you want it
+
+77
+00:02:58,230 --> 00:03:00,900
+to, especially if you're gonna keep
+coming back to it over and over.
+
+78
+00:03:02,429 --> 00:03:06,445
+So go ahead and select that Audrey
+and just go ahead and what I do, go
+
+79
+00:03:06,445 --> 00:03:07,205
+ahead and choose a different folder.
+
+80
+00:03:07,304 --> 00:03:08,414
+So choose different folder
+
+81
+00:03:10,515 --> 00:03:11,745
+like, yeah, there you go.
+
+82
+00:03:12,134 --> 00:03:15,214
+What I always do if you don't have
+to do this is go to the desktop
+
+83
+00:03:17,824 --> 00:03:18,334
+and.
+
+84
+00:03:18,994 --> 00:03:21,214
+Go to create new folder, right?
+
+85
+00:03:21,214 --> 00:03:23,704
+If you don't already have a folder for
+what you're working on now, if you're
+
+86
+00:03:23,824 --> 00:03:26,734
+is, this is something you've already been
+working on where you have some files, you
+
+87
+00:03:26,734 --> 00:03:31,114
+wanna create a presentation, or you are,
+working on this in a different, platform
+
+88
+00:03:31,114 --> 00:03:34,865
+or whatever else it is, or a different,
+situation, then just select that folder.
+
+89
+00:03:34,865 --> 00:03:37,205
+But if you don't, then create
+a new folder for Audrey.
+
+90
+00:03:37,205 --> 00:03:38,815
+You just called this training video.
+
+91
+00:03:42,955 --> 00:03:46,015
+And then now whatever we
+create will be in that folder.
+
+92
+00:03:46,020 --> 00:03:47,230
+Go ahead and say select folder.
+
+93
+00:03:50,445 --> 00:03:52,545
+So you see that there now
+a change to training video.
+
+94
+00:03:52,815 --> 00:03:56,955
+Keep in mind that whenever you're doing
+this in cloud, cowork, cloud code or
+
+95
+00:03:56,955 --> 00:03:59,945
+any other platform, honestly you wanna
+make sure you're working outta the right
+
+96
+00:03:59,945 --> 00:04:03,965
+folder so that way you don't mess up
+stuff or get lost or get unorganized.
+
+97
+00:04:04,355 --> 00:04:09,095
+Other thing I tend to do more often than
+not, and this is a comfort thing, as well
+
+98
+00:04:09,095 --> 00:04:14,825
+as like just a, the, a workflow preference
+is where it says auto accept edits.
+
+99
+00:04:14,825 --> 00:04:19,475
+Audrey, you click on that and change
+it to bypass permissions mode.
+
+100
+00:04:19,895 --> 00:04:21,065
+It's very rare.
+
+101
+00:04:21,665 --> 00:04:23,735
+And it depends on what
+you're doing here, right?
+
+102
+00:04:24,205 --> 00:04:26,635
+But it is very rare that it's gonna
+ask you to do something that's not
+
+103
+00:04:26,635 --> 00:04:28,705
+gonna that's gonna be harmful, right?
+
+104
+00:04:29,115 --> 00:04:32,715
+Most of the time you are gonna want
+it to just go do it, and you not
+
+105
+00:04:32,715 --> 00:04:36,105
+ask you like a million questions
+or ask you for permission every
+
+106
+00:04:36,105 --> 00:04:37,215
+time, for every little thing.
+
+107
+00:04:37,680 --> 00:04:38,730
+So play with that.
+
+108
+00:04:38,730 --> 00:04:43,110
+If you're watching this video have it
+in accept edits or plan mode and see how
+
+109
+00:04:43,110 --> 00:04:45,030
+much the permissions and stuff come up.
+
+110
+00:04:45,240 --> 00:04:48,530
+And also just keep in mind that
+depending on your task you may or
+
+111
+00:04:48,530 --> 00:04:49,970
+may not want to have that enabled.
+
+112
+00:04:50,390 --> 00:04:53,330
+I'll give you an example where, a
+good example, bad example real quick.
+
+113
+00:04:53,330 --> 00:04:54,620
+'cause that is an important feature.
+
+114
+00:04:55,080 --> 00:04:56,940
+A good example is if I'm building an app.
+
+115
+00:04:57,805 --> 00:05:01,345
+For instance, I just built an app for a
+go to market, project where it's sending
+
+116
+00:05:01,345 --> 00:05:03,185
+out cold emails and things like that.
+
+117
+00:05:03,515 --> 00:05:08,045
+I know what I want with that app, so I
+gave it a full long prompt and I told
+
+118
+00:05:08,045 --> 00:05:09,635
+it bypass permissions and go build it.
+
+119
+00:05:09,965 --> 00:05:14,455
+Whereas a month ago I was working
+on a project and I had this open.
+
+120
+00:05:14,850 --> 00:05:17,310
+In cursor, which I'll show
+you later on this video.
+
+121
+00:05:17,670 --> 00:05:21,040
+And I told her to clean up the
+folder 'cause I had so many files
+
+122
+00:05:21,040 --> 00:05:24,160
+that we weren't using and it went
+through and deleted all the files.
+
+123
+00:05:24,520 --> 00:05:29,320
+So I then I had to try and figure out
+how to, like, how to get that reversed.
+
+124
+00:05:29,320 --> 00:05:30,700
+And luckily I was able to save.
+
+125
+00:05:30,845 --> 00:05:32,315
+The main files that I needed.
+
+126
+00:05:32,685 --> 00:05:33,825
+But it went through and deleted it.
+
+127
+00:05:33,825 --> 00:05:36,705
+And once I told her to do it, it
+was in bypass permissions mode
+
+128
+00:05:36,705 --> 00:05:37,665
+and it just went and deleted.
+
+129
+00:05:37,665 --> 00:05:38,475
+I couldn't stop it.
+
+130
+00:05:38,485 --> 00:05:43,135
+Just be aware of what tasks you're
+using it for, but in 90% of the cases,
+
+131
+00:05:43,375 --> 00:05:46,105
+bypass permissions mode is what I
+have it on, because I don't want
+
+132
+00:05:46,105 --> 00:05:50,095
+to have to give it permission for
+everything and have it waiting on me.
+
+133
+00:05:51,865 --> 00:05:52,105
+All right.
+
+134
+00:05:52,105 --> 00:05:52,405
+Cool.
+
+135
+00:05:52,405 --> 00:05:53,395
+So now we've got that out the way.
+
+136
+00:05:53,425 --> 00:05:54,265
+Let's get to the fun stuff.
+

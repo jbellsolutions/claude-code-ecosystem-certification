@@ -1,0 +1,4 @@
+edited_videos/*.mp4
+edited_videos/.tmp/
+source_videos/
+.DS_Store

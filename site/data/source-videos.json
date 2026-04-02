@@ -1,0 +1,58 @@
+[
+  {
+    "file_name": "M1 of 1st 45 mins.mp4",
+    "stem": "M1 of 1st 45 mins",
+    "slug": "m1-of-1st-45-mins",
+    "duration": "00:07:16.31",
+    "transcript_path": "transcripts/plain_text/M1 of 1st 45 mins.txt",
+    "poster_path": "assets/posters/m1-of-1st-45-mins.jpg"
+  },
+  {
+    "file_name": "M2 of 1st 45 mins.mp4",
+    "stem": "M2 of 1st 45 mins",
+    "slug": "m2-of-1st-45-mins",
+    "duration": "00:01:57.99",
+    "transcript_path": "transcripts/plain_text/M2 of 1st 45 mins.txt",
+    "poster_path": "assets/posters/m2-of-1st-45-mins.jpg"
+  },
+  {
+    "file_name": "M3 of 1st 45 mins.mp4",
+    "stem": "M3 of 1st 45 mins",
+    "slug": "m3-of-1st-45-mins",
+    "duration": "00:05:54.50",
+    "transcript_path": "transcripts/plain_text/M3 of 1st 45 mins.txt",
+    "poster_path": "assets/posters/m3-of-1st-45-mins.jpg"
+  },
+  {
+    "file_name": "M4 of 1st 45 mins.mp4",
+    "stem": "M4 of 1st 45 mins",
+    "slug": "m4-of-1st-45-mins",
+    "duration": "00:04:23.30",
+    "transcript_path": "transcripts/plain_text/M4 of 1st 45 mins.txt",
+    "poster_path": "assets/posters/m4-of-1st-45-mins.jpg"
+  },
+  {
+    "file_name": "M7 of 1st 45 mins.mp4",
+    "stem": "M7 of 1st 45 mins",
+    "slug": "m7-of-1st-45-mins",
+    "duration": "00:01:32.33",
+    "transcript_path": "transcripts/plain_text/M7 of 1st 45 mins.txt",
+    "poster_path": "assets/posters/m7-of-1st-45-mins.jpg"
+  },
+  {
+    "file_name": "M8 of 1st 45 mins.mp4",
+    "stem": "M8 of 1st 45 mins",
+    "slug": "m8-of-1st-45-mins",
+    "duration": "00:02:10.43",
+    "transcript_path": "transcripts/plain_text/M8 of 1st 45 mins.txt",
+    "poster_path": "assets/posters/m8-of-1st-45-mins.jpg"
+  },
+  {
+    "file_name": "M9 of 1st 45 mins.mp4",
+    "stem": "M9 of 1st 45 mins",
+    "slug": "m9-of-1st-45-mins",
+    "duration": "00:01:09.99",
+    "transcript_path": "transcripts/plain_text/M9 of 1st 45 mins.txt",
+    "poster_path": "assets/posters/m9-of-1st-45-mins.jpg"
+  }
+]

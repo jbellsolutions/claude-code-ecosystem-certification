@@ -1,0 +1,163 @@
+1
+00:00:00,000 --> 00:00:01,080
+So what is it we're looking at?
+
+2
+00:00:01,350 --> 00:00:04,590
+You have, uh, the middle on, in
+the middle part, uh, up top there.
+
+3
+00:00:05,159 --> 00:00:08,970
+Um, Audrey, you can see we
+have chat, cowork and code.
+
+4
+00:00:09,120 --> 00:00:11,429
+It's three different areas
+in which we can work in.
+
+5
+00:00:12,059 --> 00:00:14,879
+Um, chat is, here's a, here's my question.
+
+6
+00:00:15,199 --> 00:00:16,249
+It gives me back an answer.
+
+7
+00:00:16,819 --> 00:00:21,499
+Cowork is kind of like, it's cloud code,
+but for the rest of the business, if
+
+8
+00:00:21,499 --> 00:00:23,419
+you open up a new session, there you go.
+
+9
+00:00:23,929 --> 00:00:27,229
+Um, you can see here, you can, so
+you can, um, customize means that
+
+10
+00:00:27,229 --> 00:00:30,019
+you can like, connect it to all your
+different tools like your Google
+
+11
+00:00:30,019 --> 00:00:31,399
+Drive, your calendar, everything else.
+
+12
+00:00:31,879 --> 00:00:32,359
+Um.
+
+13
+00:00:34,319 --> 00:00:36,659
+Schedule means you can
+schedule tasks to run daily.
+
+14
+00:00:37,139 --> 00:00:39,959
+Uh, for instance, Audrey, I
+know you do clickup automatic
+
+15
+00:00:39,959 --> 00:00:41,369
+tasks every single day, right?
+
+16
+00:00:41,369 --> 00:00:44,849
+Where it has like a automatic
+run updates the clickup.
+
+17
+00:00:45,179 --> 00:00:46,649
+Same thing with like
+your calendar and email.
+
+18
+00:00:48,419 --> 00:00:48,749
+Um.
+
+19
+00:00:49,829 --> 00:00:51,149
+Then don't worry about dispatch.
+
+20
+00:00:51,149 --> 00:00:53,069
+I'm, I'm working on the left hand
+side, by the way, guys, where it says
+
+21
+00:00:53,069 --> 00:00:54,990
+new tasks, search scheduled dispatch.
+
+22
+00:00:55,319 --> 00:00:57,240
+Um, I just don't worry about dispatch.
+
+23
+00:00:57,240 --> 00:00:58,859
+It's actually where you can
+connect your phone to it.
+
+24
+00:00:59,069 --> 00:00:59,759
+That's pretty simple.
+
+25
+00:00:59,759 --> 00:01:01,019
+You guys can figure that out by yourself.
+
+26
+00:01:01,019 --> 00:01:01,889
+So don't worry about that part.
+
+27
+00:01:02,309 --> 00:01:04,859
+And like I said, customize where you
+can connect all your tools and stuff.
+
+28
+00:01:04,859 --> 00:01:06,839
+Click on it real quick for them
+so they can see it, just so they
+
+29
+00:01:06,839 --> 00:01:08,789
+can be familiar with that screen.
+
+30
+00:01:08,789 --> 00:01:09,959
+And they're doing this on their own.
+
+31
+00:01:09,959 --> 00:01:14,039
+Audrey, where, where, uh, where it says
+ideas and customize, hit customize.
+
+32
+00:01:16,394 --> 00:01:18,134
+And boom, you can connect your apps.
+
+33
+00:01:18,194 --> 00:01:22,154
+Uh, skills is a, um, a way in
+which you can extend the abilities
+
+34
+00:01:22,154 --> 00:01:25,904
+of Quad Code won't cover that
+in this, this, this, um, video.
+
+35
+00:01:25,964 --> 00:01:28,574
+Uh, there's also plugins as well,
+and that's where it can get kind of
+
+36
+00:01:28,574 --> 00:01:31,934
+confusing what to do and when that's
+a different video for a different day.
+

@@ -1,0 +1,146 @@
+{
+  "title": "Claude Code Ecosystem Certification",
+  "kicker": "Lead Magnet One-Pager",
+  "headline": "From Operator To Orchestrator With Claude",
+  "subheadline": "A practical certification for teams who want Chat, Cowork, Code, connectors, and delivery workflows working together on day one without turning every operator into a developer.",
+  "audience": [
+    "Founders and operators building an internal AI operating system",
+    "Executive assistants and virtual assistants who need a repeatable Claude setup",
+    "Recruiting, operations, and delivery leaders who want working demos instead of theory",
+    "Technical teams that need non-technical stakeholders aligned on how Claude actually gets used"
+  ],
+  "outcomes": [
+    "Install Claude desktop and Claude Code with the right account and terminal setup",
+    "Understand when to use Chat, Cowork, and Code in the same workflow",
+    "Configure permissions, browser access, and project folders for smoother execution",
+    "Prompt Claude from business context, not just technical syntax",
+    "Ask for integrations the right way using connectors, MCPs, skills, and CLI paths"
+  ],
+  "stats": {
+    "lessonCount": 7,
+    "runtime": "24 minutes",
+    "format": "Transcript-derived, source-order curriculum"
+  },
+  "notes": [
+    "Built from the non-empty source exports provided in the original folder.",
+    "The supplied M5 and M6 exports were empty placeholders, so the delivered sequence preserves the usable lesson order: M1, M2, M3, M4, M7, M8, M9."
+  ],
+  "modules": [
+    {
+      "id": "m1-of-1st-45-mins",
+      "source": "M1 of 1st 45 mins.mp4",
+      "orderLabel": "Module 1",
+      "title": "Install, Access, And Prompt The Right Way",
+      "headline": "Start with a clean account, a local app, and a voice-first prompt workflow.",
+      "subheadline": "Set up Claude Pro, download the desktop app, install Claude Code in the terminal, and use dictated prompts with simple delimiters so Claude returns a usable checklist instead of vague ideas.",
+      "duration": "7m 16s",
+      "focus": [
+        "Account setup and the Pro-plan requirement for Claude Code",
+        "Desktop download plus terminal installation flow",
+        "Prompting by voice with WhisperFlow-style dictation",
+        "Using separators and examples to make prompts more reliable"
+      ],
+      "poster": "site/assets/posters/m1-of-1st-45-mins.jpg",
+      "transcript": "transcripts/plain_text/M1 of 1st 45 mins.txt"
+    },
+    {
+      "id": "m2-of-1st-45-mins",
+      "source": "M2 of 1st 45 mins.mp4",
+      "orderLabel": "Module 2",
+      "title": "Map The Claude Ecosystem",
+      "headline": "Understand where Chat, Cowork, and Code each fit before you try to operationalize them.",
+      "subheadline": "Get a fast product tour of the three working modes, including how Cowork handles business workflows, scheduling, and connectors while Code handles the deeper build work.",
+      "duration": "1m 58s",
+      "focus": [
+        "The role of Chat for quick questions and one-off answers",
+        "The role of Cowork for connected business workflows",
+        "The role of Code for deeper execution and build tasks",
+        "A quick look at customization, scheduling, and connected apps"
+      ],
+      "poster": "site/assets/posters/m2-of-1st-45-mins.jpg",
+      "transcript": "transcripts/plain_text/M2 of 1st 45 mins.txt"
+    },
+    {
+      "id": "m3-of-1st-45-mins",
+      "source": "M3 of 1st 45 mins.mp4",
+      "orderLabel": "Module 3",
+      "title": "Configure For Speed Without Losing Control",
+      "headline": "Remove the friction that slows teams down, but understand where the sharp edges are.",
+      "subheadline": "Enable bypass permissions mode responsibly, turn on browser access, choose the right working folder, and decide when auto-accept helps versus when it creates unnecessary risk.",
+      "duration": "5m 55s",
+      "focus": [
+        "Bypass permissions mode and when it is worth enabling",
+        "Claude-in-browser access for logins and web actions",
+        "Project-folder discipline for reliable local work",
+        "A concrete warning about over-trusting destructive cleanup tasks"
+      ],
+      "poster": "site/assets/posters/m3-of-1st-45-mins.jpg",
+      "transcript": "transcripts/plain_text/M3 of 1st 45 mins.txt"
+    },
+    {
+      "id": "m4-of-1st-45-mins",
+      "source": "M4 of 1st 45 mins.mp4",
+      "orderLabel": "Module 4",
+      "title": "Adopt The Orchestrator Mindset",
+      "headline": "Stop acting like the person doing every task and start managing teams of agents.",
+      "subheadline": "Use Claude-generated checklists as a starting point, refine vague prompts into role-based work, and learn how experienced operators juggle multiple tabs and terminals while Claude handles execution.",
+      "duration": "4m 23s",
+      "focus": [
+        "Thinking in terms of orchestration instead of manual execution",
+        "Letting Claude produce the first draft of the plan",
+        "Refining prompts when outputs are too personal or too vague",
+        "Turning one prompt into role-based demos for recruiting, ops, and software"
+      ],
+      "poster": "site/assets/posters/m4-of-1st-45-mins.jpg",
+      "transcript": "transcripts/plain_text/M4 of 1st 45 mins.txt"
+    },
+    {
+      "id": "m7-of-1st-45-mins",
+      "source": "M7 of 1st 45 mins.mp4",
+      "orderLabel": "Module 5",
+      "title": "Reinforce The Business Workflow Layer",
+      "headline": "Revisit the Cowork surface so non-technical users do not get lost.",
+      "subheadline": "Use this shorter segment as a quick orientation pass through the business-facing side of Claude, including connected apps, schedules, and the working area where recurring tasks get managed.",
+      "duration": "1m 32s",
+      "focus": [
+        "A fast refresher on the Cowork interface",
+        "Connected apps and schedule-based workflows",
+        "Repetition that helps non-technical viewers retain the product map"
+      ],
+      "poster": "site/assets/posters/m7-of-1st-45-mins.jpg",
+      "transcript": "transcripts/plain_text/M7 of 1st 45 mins.txt"
+    },
+    {
+      "id": "m8-of-1st-45-mins",
+      "source": "M8 of 1st 45 mins.mp4",
+      "orderLabel": "Module 6",
+      "title": "Prompt From The Role, The Stack, And The Outcome",
+      "headline": "The best prompts sound like a real operator describing a real mess that needs to be cleaned up.",
+      "subheadline": "Watch an operations scenario get framed in plain English around ClickUp, CRM, Gmail, Calendar, and a local dashboard so Claude can recommend the right setup without requiring the user to be technical.",
+      "duration": "2m 10s",
+      "focus": [
+        "Using current tools and pain points as prompt inputs",
+        "Asking for a single home base across ClickUp, CRM, email, and calendar",
+        "Stating technical limits clearly so Claude adapts to the user"
+      ],
+      "poster": "site/assets/posters/m8-of-1st-45-mins.jpg",
+      "transcript": "transcripts/plain_text/M8 of 1st 45 mins.txt"
+    },
+    {
+      "id": "m9-of-1st-45-mins",
+      "source": "M9 of 1st 45 mins.mp4",
+      "orderLabel": "Module 7",
+      "title": "Ask For The Right Integration Layer",
+      "headline": "When a connector is not obvious, the vocabulary matters.",
+      "subheadline": "Learn how to ask Claude about API-based integrations, MCPs, skills, and CLI routes so the platform can tell you what is available and what kind of access it needs next.",
+      "duration": "1m 10s",
+      "focus": [
+        "Why API keys are not the only integration path",
+        "How MCPs, skills, and CLI options expand what Claude can do",
+        "How to ask better follow-up questions when a system is not prebuilt"
+      ],
+      "poster": "site/assets/posters/m9-of-1st-45-mins.jpg",
+      "transcript": "transcripts/plain_text/M9 of 1st 45 mins.txt"
+    }
+  ]
+}

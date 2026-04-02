@@ -1,0 +1,198 @@
+1
+00:00:00,000 --> 00:00:01,080
+So what is it we're looking at?
+
+2
+00:00:01,350 --> 00:00:04,130
+You have the middle on, in
+the middle part up top there.
+
+3
+00:00:04,660 --> 00:00:07,960
+Audrey, you can see we
+have chat, cowork and code.
+
+4
+00:00:08,110 --> 00:00:10,420
+It's three different areas
+in which we can work in.
+
+5
+00:00:11,000 --> 00:00:12,810
+Chat is, here's my question.
+
+6
+00:00:13,130 --> 00:00:14,180
+It gives me back an answer.
+
+7
+00:00:14,750 --> 00:00:18,860
+Cowork is it's cloud code, but for
+the rest of the business, if you
+
+8
+00:00:18,860 --> 00:00:20,720
+open up a new session, there you go.
+
+9
+00:00:21,230 --> 00:00:24,530
+You can see here, you can, so you can
+customize means that you can like,
+
+10
+00:00:24,530 --> 00:00:26,870
+connect it to all your different
+tools like your Google Drive,
+
+11
+00:00:26,870 --> 00:00:27,920
+your calendar, everything else.
+
+12
+00:00:28,400 --> 00:00:30,740
+Schedule means you can
+schedule tasks to run daily.
+
+13
+00:00:31,220 --> 00:00:33,830
+For instance, Audrey, I know
+you do clickup automatic
+
+14
+00:00:33,830 --> 00:00:35,240
+tasks every single day, right?
+
+15
+00:00:35,240 --> 00:00:38,600
+Where it has a automatic
+run updates the clickup.
+
+16
+00:00:38,930 --> 00:00:40,400
+Same thing with like
+your calendar and email.
+
+17
+00:00:42,170 --> 00:00:43,490
+Then don't worry about dispatch.
+
+18
+00:00:43,520 --> 00:00:45,440
+I'm working on the left hand side,
+by the way, guys, where it says new
+
+19
+00:00:45,440 --> 00:00:47,180
+tasks, search scheduled dispatch.
+
+20
+00:00:47,510 --> 00:00:48,620
+I just don't worry about dispatch.
+
+21
+00:00:48,620 --> 00:00:50,240
+It's actually where you can
+connect your phone to it.
+
+22
+00:00:50,450 --> 00:00:51,140
+That's pretty simple.
+
+23
+00:00:51,140 --> 00:00:52,400
+You guys can figure that out by yourself.
+
+24
+00:00:52,400 --> 00:00:53,270
+So don't worry about that part.
+
+25
+00:00:53,690 --> 00:00:56,240
+And like I said, customize where you
+can connect all your tools and stuff.
+
+26
+00:00:56,240 --> 00:00:58,220
+Click on it real quick for them
+so they can see it, just so they
+
+27
+00:00:58,220 --> 00:01:00,170
+can be familiar with that screen.
+
+28
+00:01:00,170 --> 00:01:01,340
+And they're doing this on their own.
+
+29
+00:01:01,340 --> 00:01:05,000
+Audrey where where it says ideas
+and customize, hit customize.
+
+30
+00:01:07,355 --> 00:01:09,095
+And boom, you can connect your apps.
+
+31
+00:01:09,195 --> 00:01:13,075
+Skills is a a way in which you can
+extend the abilities of Quad Code
+
+32
+00:01:13,075 --> 00:01:14,565
+won't cover that in this video.
+
+33
+00:01:14,665 --> 00:01:16,975
+There's also plugins as well, and
+that's where it can get confusing
+
+34
+00:01:17,035 --> 00:01:19,885
+what to do and when that's a
+different video for a different day.
+
+35
+00:01:20,275 --> 00:01:24,770
+Let's go ahead and go over to where
+it says New task again, Audrey.
+
+36
+00:01:26,660 --> 00:01:29,360
+And then in the middle, let's go
+ahead and move over to Quad Code.
+
+37
+00:01:31,970 --> 00:01:35,630
+So we just covered chat, we covered
+cowork and then we have quad code.
+
+38
+00:01:36,780 --> 00:01:38,610
+This is where the, a lot
+of the magic happens.
+
+39
+00:01:39,060 --> 00:01:41,760
+Majority of the time, you're
+gonna use quad code to build
+
+40
+00:01:42,300 --> 00:01:44,000
+and do the more intense stuff.
+
+41
+00:01:44,540 --> 00:01:49,370
+Cowork is something you'll use to help
+you brainstorm and organize and chat
+
+42
+00:01:49,400 --> 00:01:53,200
+is something that where can do quick
+searches And quick one-off answers.
+
+43
+00:01:55,015 --> 00:01:57,955
+So the majority of this, the rest of
+this video is gonna be in quad code.
+
